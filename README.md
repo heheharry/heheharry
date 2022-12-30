@@ -2,7 +2,7 @@
 - I’m interested in Learning Python, Java, C, C++, Cotlin, And Ethical Hacking
 - I’m currently learning Java
 - I'm a Cyber Security enthusiast
-- You can contact me through- 
+- You can contact me through - 
 - Ph.no- 7569396468 
 - Insta- https://www.instagram.com/_sreehari_kotamreddy_/ 
 - Linkedin- https://www.linkedin.com/in/sreehari-kumar-reddy-kotamreddy-1520a0234/
