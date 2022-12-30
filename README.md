@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @heheharry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-heheharry/heheharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @heheharry
+- I’m interested in Learning Python, Java, C, C++, Cotlin, And Ethical Hacking
+- I’m currently learning Java
+- I'm a Cyber Security enthusiast
+- You can contact me through- 
+- Ph.no- 7569396468 
+- Insta- https://www.instagram.com/_sreehari_kotamreddy_/ 
+- Linkedin- https://www.linkedin.com/in/sreehari-kumar-reddy-kotamreddy-1520a0234/
